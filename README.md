@@ -1,5 +1,5 @@
 # 💫 Acerca de mí:
-¡Hola! Soy [Jose Miranda]. Actualmente me dedico a [Crear web apps]. Me encanta [dormir]. Siempre estoy en busca de nuevos retos y oportunidades para crecer.
+¡Hola! Soy Jose Miranda. Actualmente me dedico a Crear web apps. Me encanta dormir. Siempre estoy en busca de nuevos retos y oportunidades para crecer.
 
 ## 🌐 Redes sociales:
 Puedes encontrarme en [LinkedIn](https://linkedin.com/in/tu-perfil-de-linkedin). ¡Conéctate conmigo!
