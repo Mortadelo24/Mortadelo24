@@ -1,14 +1,12 @@
-# 💫 About Me:
-🔭 Yo estoy cursando el Web50.<br><br>💬Actualmente me dedico a comer y a dormir.<br><br>⚡Siempre insano.
+# 💫 Acerca de mí:
+¡Hola! Soy [Jose Miranda]. Actualmente me dedico a [Crear web apps]. Me encanta [dormir]. Siempre estoy en busca de nuevos retos y oportunidades para crecer.
 
+## 🌐 Redes sociales:
+Puedes encontrarme en [LinkedIn](https://linkedin.com/in/tu-perfil-de-linkedin). ¡Conéctate conmigo!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jos%C3%A9-miranda-802742252/) 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mortadelo24&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mortadelo24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortadelo24&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 Estadísticas de GitHub:
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![Racha de GitHub](https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false)
+![Lenguajes principales](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
